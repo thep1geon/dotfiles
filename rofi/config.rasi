@@ -1,0 +1,111 @@
+configuration {
+    modi: "run,window,ssh";
+    location: 6;
+  	yoffset: -75;
+  	xoffset: 0;
+    fixed-num-lines: false;
+    show-icons: true;
+	terminal: "alacritty";
+    run-command: "{cmd}";
+	disable-history: false;
+	case-sensitive: false;
+    sort: true;
+    sorting-method: "fzf";
+	cycle: false;
+	sidebar-mode: true;
+	hover-select: false;
+	eh: 1;
+	auto-select: false;
+	click-to-exit: false;
+	window-thumbnail: true;
+	display-window: "Window";
+	display-run: "Run ->";
+	kb-primary-paste: "Control+V,Shift+Insert";
+	kb-secondary-paste: "Control+v,Insert";
+	kb-clear-line: "Control+w";
+	kb-move-front: "Control+a";
+	kb-move-end: "Control+e";
+	kb-move-word-back: "Alt+b";
+	kb-move-word-forward: "Alt+f";
+	kb-remove-word-back: "Control+Alt+h,Control+BackSpace";
+	kb-remove-word-forward: "Control+Alt+d";
+	kb-remove-char-forward: "Delete,Control+d";
+	kb-remove-char-back: "BackSpace,Shift+BackSpace,Control+h";
+	kb-remove-to-eol: "Control+k";
+	kb-remove-to-sol: "Control+u";
+	kb-accept-entry: "Control+j,Control+m,Return,KP_Enter";
+	kb-accept-custom: "Control+Return";
+	kb-accept-custom-alt: "Control+Shift+Return";
+	kb-accept-alt: "Shift+Return";
+	kb-delete-entry: "Shift+Delete";
+    kb-mode-next: "Control+Right,Control+Tab";
+    kb-mode-previous: "Control+Left,Control+ISO_Left_Tab";
+	kb-mode-complete: "Control+l";
+	kb-row-left: "Control+Page_Up";
+	kb-row-right: "Control+Page_Down";
+	kb-row-up: "Up,Control+p";
+	kb-row-down: "Down,Control+n";
+	kb-row-tab: "";
+	kb-element-next: "Tab";
+	kb-element-prev: "ISO_Left_Tab";
+	kb-page-prev: "Page_Up";
+	kb-page-next: "Page_Down";
+	kb-row-first: "Home,KP_Home";
+	kb-row-last: "End,KP_End";
+	kb-row-select: "Control+space";
+	kb-screenshot: "Alt+S";
+	kb-ellipsize: "Alt+period";
+	kb-toggle-case-sensitivity: "grave,dead_grave";
+	kb-toggle-sort: "Alt+grave";
+	kb-cancel: "Escape,Control+g,Control+bracketleft";
+	kb-custom-1: "Alt+1";
+	kb-custom-2: "Alt+2";
+	kb-custom-3: "Alt+3";
+	kb-custom-4: "Alt+4";
+	kb-custom-5: "Alt+5";
+	kb-custom-6: "Alt+6";
+	kb-custom-7: "Alt+7";
+	kb-custom-8: "Alt+8";
+	kb-custom-9: "Alt+9";
+	kb-custom-10: "Alt+0";
+	kb-custom-11: "Alt+exclam";
+	kb-custom-12: "Alt+at";
+	kb-custom-13: "Alt+numbersign";
+	kb-custom-14: "Alt+dollar";
+	kb-custom-15: "Alt+percent";
+	kb-custom-16: "Alt+dead_circumflex";
+	kb-custom-17: "Alt+ampersand";
+	kb-custom-18: "Alt+asterisk";
+	kb-custom-19: "Alt+parenleft";
+	kb-select-1: "";
+	kb-select-2: "";
+	kb-select-3: "";
+	kb-select-4: "";
+	kb-select-5: "";
+	kb-select-6: "";
+	kb-select-7: "";
+	kb-select-8: "";
+	kb-select-9: "";
+	kb-select-10: "";
+	ml-row-up: "ScrollUp";
+	ml-row-down: "ScrollDown";
+	me-select-entry: "MousePrimary";
+	me-accept-entry: "MouseDPrimary";
+	me-accept-custom: "Control+MouseDPrimary";
+  timeout {
+      action: "kb-cancel";
+      delay:  0;
+  }
+  filebrowser {
+      directories-first: true;
+      sorting-method:    "name";
+  }
+}
+
+entry {
+    placeholder: "";
+    cursor: pointer;
+}
+//@theme "catppuccin-mocha"
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+@theme "/usr/share/rofi/themes/catppuccin-mocha.rasi"

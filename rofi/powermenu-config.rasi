@@ -1,0 +1,7 @@
+@theme "catppuccin-mocha-powermenu"
+
+configuration {
+    location: 4;
+    yoffset: 0;
+    xoffset: -10;
+}
