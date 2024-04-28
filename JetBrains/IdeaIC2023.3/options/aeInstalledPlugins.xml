@@ -1,0 +1,11 @@
+<application>
+  <component name="aeInstalledPlugins">
+    <option name="myPlugins">
+      <map>
+        <entry key="IdeaVIM" value="1710004690819" />
+        <entry key="com.github.catppuccin.jetbrains" value="1710004711792" />
+        <entry key="com.github.catppuccin.jetbrains_icons" value="1710004718472" />
+      </map>
+    </option>
+  </component>
+</application>

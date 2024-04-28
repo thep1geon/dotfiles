@@ -5,7 +5,7 @@ configuration {
   	xoffset: 0;
     fixed-num-lines: false;
     show-icons: true;
-	terminal: "alacritty";
+	terminal: "kitty";
     run-command: "{cmd}";
 	disable-history: false;
 	case-sensitive: false;

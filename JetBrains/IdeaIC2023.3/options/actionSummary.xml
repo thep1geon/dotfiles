@@ -1,0 +1,139 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="2" l="1710323370555" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="2" l="1710004900066" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="2" l="1710084320948" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="3" l="1710083481031" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="5" l="1710084355772" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="7" l="1710086745845" />
+    </e>
+    <e n="CollapseAll">
+      <i c="1" l="1710004759752" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="13" l="1710077603394" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="298" l="1710323307958" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="51" l="1710087164648" />
+    </e>
+    <e n="EditorDelete">
+      <i c="11" l="1710086369544" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="7" l="1710083232955" />
+    </e>
+    <e n="EditorDown">
+      <i c="27" l="1710323307202" />
+    </e>
+    <e n="EditorEnter">
+      <i c="53" l="1710087162803" />
+    </e>
+    <e n="EditorEscape">
+      <i c="86" l="1710323308703" />
+    </e>
+    <e n="EditorRight">
+      <i c="3" l="1710086198327" />
+    </e>
+    <e n="EditorTab">
+      <i c="4" l="1710084414756" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1710086355393" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="3" l="1710004253458" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="8" l="1710085313173" />
+    </e>
+    <e n="GotoFile">
+      <i c="2" l="1710083267480" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1710082967346" />
+    </e>
+    <e n="NewProject">
+      <i c="3" l="1710083018438" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1710323231194" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1710085293564" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="4" l="1710323332185" />
+    </e>
+    <e n="Run">
+      <i c="13" l="1710323316660" />
+    </e>
+    <e n="RunAnything">
+      <i c="2" l="1710077599889" />
+    </e>
+    <e n="SaveAll">
+      <i c="51" l="1710323314002" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1710083977838" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1710083447825" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1710004186545" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1710004381384" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1710004935396" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="287" l="1710323307957" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="10" l="1710323189672" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1710083266396" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="9" l="1710323202489" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="10" l="1710323227581" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="2" l="1710077775043" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="11" l="1710323331291" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1710083274161" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="3" l="1710083082766" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="61" l="1710323313990" />
+    </e>
+    <e n="context.save">
+      <i c="1" l="1710083443784" />
+    </e>
+  </component>
+</application>

@@ -16,6 +16,9 @@ if status is-interactive
     # View images in the terminal
     alias icat 'kitty +kitten icat'
 
+    # The better ssh experience
+    alias ssh 'kitty +kitten ssh'
+
     # we want to run the light command without sudo
     alias light-passwdless '/usr/sbin/light'
 
@@ -39,5 +42,9 @@ if status is-interactive
 
     set -x CFLAGS "-Wall -Wextra -g -pedantic -fsanitize=address"
     set -x CC "gcc"
+
+    alias intellij "/opt/idea-IC-233.14475.28/bin/idea.sh"
+    set -gx EDITOR nvim
+    set -gx TERM xterm-kitty
+    set -gx JAVA_HOME "/usr/lib/jvm/default/"
 end
-set -gx EDITOR nvim

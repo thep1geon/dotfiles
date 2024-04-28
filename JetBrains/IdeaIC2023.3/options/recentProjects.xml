@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/Intellij/JAVA">
+          <value>
+            <RecentProjectMetaInfo frameTitle="JAVA – Main.java" projectWorkspaceId="2dSbBc1fqLm1OB1nsjipBrF5rn1">
+              <option name="activationTimestamp" value="1710083257215" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="10" y="3" width="1346" height="755" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710082658943" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Minecraft-Stuff/Plugins">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Plugins" projectWorkspaceId="2dVBEWQ8qUXh7sdx8b8Q1ltGbHY">
+              <option name="activationTimestamp" value="1710323253474" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="114" y="3" width="1149" height="736" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710083257949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tmp/jwisp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="jwisp – pom.xml (jwisp)" opened="true" projectWorkspaceId="2dd1gmesttcutqRch5dlULNsQXe">
+              <option name="activationTimestamp" value="1710323286275" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="685" y="3" width="671" height="755" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710323254492" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/tmp/jwisp" />
+    <option name="lastProjectLocation" value="$USER_HOME$/tmp" />
+  </component>
+</application>

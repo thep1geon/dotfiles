@@ -50,8 +50,8 @@ bindsym XF86AudioLowerVolume exec --no-startup-id /home/magic/bin/volMax down
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle
 
-gaps inner 5
-gaps outer 5
+gaps inner 6
+gaps outer 0
 
 # Make sure the wifi doesn't disconnect
 exec_always iw dev wlan0 set power_save off
@@ -208,8 +208,8 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-bindcode 95 exec light -U 5
-bindcode 96 exec light -A 5
+bindcode 232 exec light -U 5
+bindcode 233 exec light -A 5
 
 bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioPause exec playerctl play-pause
@@ -217,7 +217,7 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
 # exec_always --no-startup-id feh --bg-fill ~/Pictures/catppuccin-Tomcat.png
-exec_always --no-startup-id feh --bg-fill ~/Pictures/evening-sky.png
+exec_always --no-startup-id feh --bg-fill ~/Pictures/10.png
 
 exec_always --no-startup-id numlockx on
 

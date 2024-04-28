@@ -655,3 +655,535 @@ btop++ needs an interactive shell to run.
 2024/03/05 (12:23:37) | DEBUG: Shared::init() : Initialized.
 2024/03/05 (12:23:45) | DEBUG: Writing new config file
 2024/03/05 (12:23:45) | INFO: Quitting! Runtime: 00:00:09
+
+2024/03/07 (04:20:20) | ===> btop++ v.1.3.2
+2024/03/07 (04:20:20) | INFO: Logger set to DEBUG
+2024/03/07 (04:20:20) | DEBUG: Using locale en_US.UTF-8
+2024/03/07 (04:20:20) | INFO: Running on /dev/pts/0
+2024/03/07 (04:20:21) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/07 (04:20:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/07 (04:20:21) | DEBUG: Shared::init() : Initialized.
+2024/03/07 (04:20:26) | INFO: Quitting! Runtime: 00:00:06
+
+2024/03/09 (10:55:41) | ===> btop++ v.1.3.2
+2024/03/09 (10:55:41) | INFO: Logger set to DEBUG
+2024/03/09 (10:55:41) | DEBUG: Using locale en_US.UTF-8
+2024/03/09 (10:55:41) | INFO: Running on /dev/pts/4
+2024/03/09 (10:55:41) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/09 (10:55:41) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/09 (10:55:41) | DEBUG: Shared::init() : Initialized.
+2024/03/09 (10:56:29) | DEBUG: Writing new config file
+2024/03/09 (10:56:29) | INFO: Quitting! Runtime: 00:00:48
+
+2024/03/09 (15:39:59) | ===> btop++ v.1.3.2
+2024/03/09 (15:39:59) | INFO: Logger set to DEBUG
+2024/03/09 (15:39:59) | DEBUG: Using locale en_US.UTF-8
+2024/03/09 (15:39:59) | INFO: Running on /dev/pts/0
+2024/03/09 (15:39:59) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/09 (15:39:59) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/09 (15:39:59) | DEBUG: Shared::init() : Initialized.
+
+2024/03/09 (15:56:28) | ===> btop++ v.1.3.2
+2024/03/09 (15:56:28) | INFO: Logger set to DEBUG
+2024/03/09 (15:56:28) | DEBUG: Using locale en_US.UTF-8
+2024/03/09 (15:56:28) | INFO: Running on /dev/pts/0
+2024/03/09 (15:56:29) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/09 (15:56:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/09 (15:56:29) | DEBUG: Shared::init() : Initialized.
+2024/03/09 (15:57:22) | DEBUG: Writing new config file
+2024/03/09 (15:57:22) | INFO: Quitting! Runtime: 00:00:54
+
+2024/03/10 (09:33:33) | ===> btop++ v.1.3.2
+2024/03/10 (09:33:33) | INFO: Logger set to DEBUG
+2024/03/10 (09:33:33) | DEBUG: Using locale en_US.UTF-8
+2024/03/10 (09:33:33) | INFO: Running on /dev/pts/0
+2024/03/10 (09:33:33) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/10 (09:33:33) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/10 (09:33:33) | DEBUG: Shared::init() : Initialized.
+2024/03/10 (09:33:42) | INFO: Quitting! Runtime: 00:00:09
+
+2024/03/10 (09:34:32) | ===> btop++ v.1.3.2
+2024/03/10 (09:34:32) | INFO: Logger set to DEBUG
+2024/03/10 (09:34:32) | DEBUG: Using locale en_US.UTF-8
+2024/03/10 (09:34:32) | INFO: Running on /dev/pts/0
+2024/03/10 (09:34:32) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/10 (09:34:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/10 (09:34:32) | DEBUG: Shared::init() : Initialized.
+2024/03/10 (09:34:36) | INFO: Quitting! Runtime: 00:00:04
+
+2024/03/10 (19:53:35) | ===> btop++ v.1.3.2
+2024/03/10 (19:53:35) | INFO: Logger set to DEBUG
+2024/03/10 (19:53:35) | DEBUG: Using locale en_US.UTF-8
+2024/03/10 (19:53:35) | INFO: Running on /dev/pts/0
+2024/03/10 (19:53:35) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/10 (19:53:35) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/10 (19:53:36) | DEBUG: Shared::init() : Initialized.
+
+2024/03/12 (07:32:46) | ===> btop++ v.1.3.2
+2024/03/12 (07:32:46) | INFO: Logger set to DEBUG
+2024/03/12 (07:32:46) | DEBUG: Using locale en_US.UTF-8
+2024/03/12 (07:32:46) | INFO: Running on /dev/pts/4
+2024/03/12 (07:32:46) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/12 (07:32:46) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/12 (07:32:46) | DEBUG: Shared::init() : Initialized.
+
+2024/03/12 (07:32:50) | ===> btop++ v.1.3.2
+2024/03/12 (07:32:50) | INFO: Logger set to DEBUG
+2024/03/12 (07:32:50) | DEBUG: Using locale en_US.UTF-8
+2024/03/12 (07:32:50) | INFO: Running on /dev/pts/4
+2024/03/12 (07:32:50) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/12 (07:32:50) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/12 (07:32:50) | DEBUG: Shared::init() : Initialized.
+2024/03/12 (07:34:14) | DEBUG: Writing new config file
+2024/03/12 (07:34:14) | INFO: Quitting! Runtime: 00:01:24
+
+2024/03/18 (12:59:43) | ===> btop++ v.1.3.2
+2024/03/18 (12:59:43) | INFO: Logger set to DEBUG
+2024/03/18 (12:59:43) | DEBUG: Using locale en_US.UTF-8
+2024/03/18 (12:59:43) | INFO: Running on /dev/pts/2
+2024/03/18 (12:59:43) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/18 (12:59:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/18 (12:59:43) | DEBUG: Shared::init() : Initialized.
+2024/03/18 (13:00:10) | INFO: Quitting! Runtime: 00:00:27
+
+2024/03/19 (19:03:25) | ===> btop++ v.1.3.2
+2024/03/19 (19:03:25) | INFO: Logger set to DEBUG
+2024/03/19 (19:03:25) | DEBUG: Using locale en_US.UTF-8
+2024/03/19 (19:03:25) | INFO: Running on /dev/pts/4
+2024/03/19 (19:03:25) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/19 (19:03:25) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/19 (19:03:25) | DEBUG: Shared::init() : Initialized.
+2024/03/19 (19:03:41) | DEBUG: Writing new config file
+2024/03/19 (19:03:41) | INFO: Quitting! Runtime: 00:00:16
+
+2024/03/22 (21:07:50) | ===> btop++ v.1.3.2
+2024/03/22 (21:07:50) | INFO: Logger set to DEBUG
+2024/03/22 (21:07:50) | DEBUG: Using locale en_US.UTF-8
+2024/03/22 (21:07:50) | INFO: Running on /dev/pts/3
+2024/03/22 (21:07:50) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/22 (21:07:50) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/22 (21:07:50) | DEBUG: Shared::init() : Initialized.
+2024/03/22 (21:07:59) | INFO: Quitting! Runtime: 00:00:09
+
+2024/03/23 (22:06:39) | ===> btop++ v.1.3.2
+2024/03/23 (22:06:39) | INFO: Logger set to DEBUG
+2024/03/23 (22:06:39) | DEBUG: Using locale en_US.UTF-8
+2024/03/23 (22:06:39) | INFO: Running on /dev/pts/1
+2024/03/23 (22:06:39) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/23 (22:06:39) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/23 (22:06:39) | DEBUG: Shared::init() : Initialized.
+2024/03/23 (22:06:48) | INFO: Quitting! Runtime: 00:00:09
+
+2024/03/26 (10:02:56) | ===> btop++ v.1.3.2
+2024/03/26 (10:02:56) | INFO: Logger set to DEBUG
+2024/03/26 (10:02:56) | DEBUG: Using locale en_US.UTF-8
+2024/03/26 (10:02:56) | INFO: Running on /dev/pts/4
+2024/03/26 (10:02:56) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/26 (10:02:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/26 (10:02:56) | DEBUG: Shared::init() : Initialized.
+2024/03/26 (10:04:19) | DEBUG: Writing new config file
+2024/03/26 (10:04:19) | INFO: Quitting! Runtime: 00:01:24
+
+2024/03/30 (12:08:50) | ===> btop++ v.1.3.2
+2024/03/30 (12:08:50) | INFO: Logger set to DEBUG
+2024/03/30 (12:08:51) | DEBUG: Using locale en_US.UTF-8
+2024/03/30 (12:08:51) | INFO: Running on /dev/pts/6
+2024/03/30 (12:08:51) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/03/30 (12:08:51) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/03/30 (12:08:51) | DEBUG: Shared::init() : Initialized.
+2024/03/30 (12:09:23) | DEBUG: Writing new config file
+2024/03/30 (12:09:23) | INFO: Quitting! Runtime: 00:00:34
+
+2024/04/05 (19:45:13) | ===> btop++ v.1.3.2
+2024/04/05 (19:45:13) | INFO: Logger set to DEBUG
+2024/04/05 (19:45:13) | DEBUG: Using locale en_US.UTF-8
+2024/04/05 (19:45:13) | INFO: Running on /dev/pts/2
+2024/04/05 (19:45:13) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/05 (19:45:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/05 (19:45:13) | DEBUG: Shared::init() : Initialized.
+2024/04/05 (19:46:32) | DEBUG: Writing new config file
+2024/04/05 (19:46:32) | INFO: Quitting! Runtime: 00:01:19
+
+2024/04/05 (20:18:50) | ===> btop++ v.1.3.2
+2024/04/05 (20:18:50) | INFO: Logger set to DEBUG
+2024/04/05 (20:18:50) | DEBUG: Using locale en_US.UTF-8
+2024/04/05 (20:18:50) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+2024/04/05 (20:18:50) | INFO: Quitting! Runtime: 00:00:00
+
+2024/04/05 (20:18:56) | ===> btop++ v.1.3.2
+2024/04/05 (20:18:56) | INFO: Logger set to DEBUG
+2024/04/05 (20:18:56) | DEBUG: Using locale en_US.UTF-8
+2024/04/05 (20:18:56) | INFO: Running on /dev/pts/0
+2024/04/05 (20:18:56) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/05 (20:18:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/05 (20:18:56) | DEBUG: Shared::init() : Initialized.
+2024/04/05 (20:19:08) | INFO: Quitting! Runtime: 00:00:12
+
+2024/04/06 (19:14:24) | ===> btop++ v.1.3.2
+2024/04/06 (19:14:24) | INFO: Logger set to DEBUG
+2024/04/06 (19:14:24) | DEBUG: Using locale en_US.UTF-8
+2024/04/06 (19:14:24) | INFO: Running on /dev/pts/2
+2024/04/06 (19:14:24) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/06 (19:14:24) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/06 (19:14:24) | DEBUG: Shared::init() : Initialized.
+2024/04/06 (19:14:38) | DEBUG: Writing new config file
+2024/04/06 (19:14:38) | INFO: Quitting! Runtime: 00:00:14
+
+2024/04/07 (09:55:03) | ===> btop++ v.1.3.2
+2024/04/07 (09:55:03) | INFO: Logger set to DEBUG
+2024/04/07 (09:55:03) | DEBUG: Using locale en_US.UTF-8
+2024/04/07 (09:55:03) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+2024/04/07 (09:55:03) | INFO: Quitting! Runtime: 00:00:00
+
+2024/04/07 (09:55:05) | ===> btop++ v.1.3.2
+2024/04/07 (09:55:05) | INFO: Logger set to DEBUG
+2024/04/07 (09:55:05) | DEBUG: Using locale en_US.UTF-8
+2024/04/07 (09:55:05) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+2024/04/07 (09:55:05) | INFO: Quitting! Runtime: 00:00:00
+
+2024/04/07 (09:55:07) | ===> btop++ v.1.3.2
+2024/04/07 (09:55:07) | INFO: Logger set to DEBUG
+2024/04/07 (09:55:07) | DEBUG: Using locale en_US.UTF-8
+2024/04/07 (09:55:07) | INFO: Running on /dev/pts/6
+2024/04/07 (09:55:07) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/07 (09:55:07) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/07 (09:55:07) | DEBUG: Shared::init() : Initialized.
+2024/04/07 (09:56:18) | INFO: Quitting! Runtime: 00:01:11
+
+2024/04/10 (11:27:42) | ===> btop++ v.1.3.2
+2024/04/10 (11:27:42) | INFO: Logger set to DEBUG
+2024/04/10 (11:27:42) | DEBUG: Using locale en_US.UTF-8
+2024/04/10 (11:27:42) | INFO: Running on /dev/pts/2
+2024/04/10 (11:27:42) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/10 (11:27:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/10 (11:27:42) | DEBUG: Shared::init() : Initialized.
+2024/04/10 (11:27:51) | INFO: Quitting! Runtime: 00:00:09
+
+2024/04/13 (13:13:39) | ===> btop++ v.1.3.2
+2024/04/13 (13:13:39) | INFO: Logger set to DEBUG
+2024/04/13 (13:13:39) | DEBUG: Using locale en_US.UTF-8
+2024/04/13 (13:13:39) | INFO: Running on /dev/pts/0
+2024/04/13 (13:13:39) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/13 (13:13:39) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/13 (13:13:39) | DEBUG: Shared::init() : Initialized.
+2024/04/13 (13:13:47) | DEBUG: Writing new config file
+2024/04/13 (13:13:47) | INFO: Quitting! Runtime: 00:00:09
+
+2024/04/16 (07:56:43) | ===> btop++ v.1.3.2
+2024/04/16 (07:56:43) | INFO: Logger set to DEBUG
+2024/04/16 (07:56:43) | DEBUG: Using locale en_US.UTF-8
+2024/04/16 (07:56:43) | INFO: Running on /dev/pts/0
+2024/04/16 (07:56:43) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/16 (07:56:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/16 (07:56:43) | DEBUG: Shared::init() : Initialized.
+2024/04/16 (07:56:54) | INFO: Quitting! Runtime: 00:00:11
+
+2024/04/20 (08:27:30) | ===> btop++ v.1.3.2
+2024/04/20 (08:27:30) | INFO: Logger set to DEBUG
+2024/04/20 (08:27:30) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (08:27:30) | INFO: Running on /dev/pts/4
+2024/04/20 (08:27:30) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (08:27:30) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (08:27:30) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (08:31:43) | INFO: Quitting! Runtime: 00:04:13
+
+2024/04/20 (08:32:10) | ===> btop++ v.1.3.2
+2024/04/20 (08:32:10) | INFO: Logger set to DEBUG
+2024/04/20 (08:32:10) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (08:32:10) | INFO: Running on /dev/pts/4
+2024/04/20 (08:32:11) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (08:32:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (08:32:11) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (08:32:17) | INFO: Quitting! Runtime: 00:00:07
+
+2024/04/20 (08:32:56) | ===> btop++ v.1.3.2
+2024/04/20 (08:32:56) | INFO: Logger set to DEBUG
+2024/04/20 (08:32:56) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (08:32:56) | INFO: Running on /dev/pts/4
+2024/04/20 (08:32:57) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (08:32:57) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (08:32:57) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (08:33:53) | INFO: Quitting! Runtime: 00:00:57
+
+2024/04/20 (08:48:09) | ===> btop++ v.1.3.2
+2024/04/20 (08:48:09) | INFO: Logger set to DEBUG
+2024/04/20 (08:48:09) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (08:48:09) | INFO: Running on /dev/pts/0
+2024/04/20 (08:48:09) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (08:48:09) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (08:48:09) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (08:48:30) | INFO: Quitting! Runtime: 00:00:21
+
+2024/04/20 (08:55:48) | ===> btop++ v.1.3.2
+2024/04/20 (08:55:48) | INFO: Logger set to DEBUG
+2024/04/20 (08:55:48) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (08:55:48) | INFO: Running on /dev/pts/0
+2024/04/20 (08:55:48) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (08:55:48) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (08:55:48) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (08:55:54) | INFO: Quitting! Runtime: 00:00:06
+
+2024/04/20 (08:59:12) | ===> btop++ v.1.3.2
+2024/04/20 (08:59:12) | INFO: Logger set to DEBUG
+2024/04/20 (08:59:12) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (08:59:12) | INFO: Running on /dev/pts/0
+2024/04/20 (08:59:12) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (08:59:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (08:59:12) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (08:59:24) | INFO: Quitting! Runtime: 00:00:12
+
+2024/04/20 (09:06:34) | ===> btop++ v.1.3.2
+2024/04/20 (09:06:34) | INFO: Logger set to DEBUG
+2024/04/20 (09:06:34) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:06:34) | INFO: Running on /dev/pts/0
+2024/04/20 (09:06:35) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:06:35) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:06:35) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:06:40) | INFO: Quitting! Runtime: 00:00:06
+
+2024/04/20 (09:11:20) | ===> btop++ v.1.3.2
+2024/04/20 (09:11:20) | INFO: Logger set to DEBUG
+2024/04/20 (09:11:20) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:11:20) | INFO: Running on /dev/pts/1
+2024/04/20 (09:11:20) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:11:20) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:11:20) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:11:26) | INFO: Quitting! Runtime: 00:00:06
+
+2024/04/20 (09:14:25) | ===> btop++ v.1.3.2
+2024/04/20 (09:14:25) | INFO: Logger set to DEBUG
+2024/04/20 (09:14:25) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:14:25) | INFO: Running on /dev/pts/0
+2024/04/20 (09:14:25) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:14:25) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:14:25) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:14:40) | INFO: Quitting! Runtime: 00:00:15
+
+2024/04/20 (09:14:42) | ===> btop++ v.1.3.2
+2024/04/20 (09:14:42) | INFO: Logger set to DEBUG
+2024/04/20 (09:14:42) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:14:42) | INFO: Running on /dev/pts/0
+2024/04/20 (09:14:43) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:14:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:14:43) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:14:57) | INFO: Quitting! Runtime: 00:00:15
+
+2024/04/20 (09:15:19) | ===> btop++ v.1.3.2
+2024/04/20 (09:15:19) | INFO: Logger set to DEBUG
+2024/04/20 (09:15:19) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:15:19) | INFO: Running on /dev/pts/0
+2024/04/20 (09:15:19) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:15:19) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:15:19) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:15:27) | INFO: Quitting! Runtime: 00:00:08
+
+2024/04/20 (09:18:06) | ===> btop++ v.1.3.2
+2024/04/20 (09:18:06) | INFO: Logger set to DEBUG
+2024/04/20 (09:18:06) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:18:06) | INFO: Running on /dev/pts/0
+2024/04/20 (09:18:06) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:18:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:18:06) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:18:09) | INFO: Quitting! Runtime: 00:00:03
+
+2024/04/20 (09:39:19) | ===> btop++ v.1.3.2
+2024/04/20 (09:39:19) | INFO: Logger set to DEBUG
+2024/04/20 (09:39:19) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:39:19) | INFO: Running on /dev/pts/0
+2024/04/20 (09:39:20) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:39:20) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:39:20) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:39:49) | INFO: Quitting! Runtime: 00:00:30
+
+2024/04/20 (09:39:52) | ===> btop++ v.1.3.2
+2024/04/20 (09:39:52) | INFO: Logger set to DEBUG
+2024/04/20 (09:39:52) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:39:52) | INFO: Running on /dev/pts/0
+2024/04/20 (09:39:52) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:39:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:39:52) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:40:37) | INFO: Quitting! Runtime: 00:00:45
+
+2024/04/20 (09:42:17) | ===> btop++ v.1.3.2
+2024/04/20 (09:42:17) | INFO: Logger set to DEBUG
+2024/04/20 (09:42:17) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (09:42:17) | INFO: Running on /dev/pts/0
+2024/04/20 (09:42:17) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (09:42:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (09:42:17) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (09:42:19) | INFO: Quitting! Runtime: 00:00:02
+
+2024/04/20 (10:17:53) | ===> btop++ v.1.3.2
+2024/04/20 (10:17:53) | INFO: Logger set to DEBUG
+2024/04/20 (10:17:53) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (10:17:53) | INFO: Running on /dev/pts/3
+2024/04/20 (10:17:53) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (10:17:53) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (10:17:53) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (10:18:04) | INFO: Quitting! Runtime: 00:00:11
+
+2024/04/20 (10:36:36) | ===> btop++ v.1.3.2
+2024/04/20 (10:36:36) | INFO: Logger set to DEBUG
+2024/04/20 (10:36:36) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (10:36:36) | INFO: Running on /dev/pts/2
+2024/04/20 (10:36:36) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (10:36:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (10:36:36) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (10:36:49) | INFO: Quitting! Runtime: 00:00:13
+
+2024/04/20 (11:08:11) | ===> btop++ v.1.3.2
+2024/04/20 (11:08:11) | INFO: Logger set to DEBUG
+2024/04/20 (11:08:11) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (11:08:11) | INFO: Running on /dev/pts/2
+2024/04/20 (11:08:11) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (11:08:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (11:08:11) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (11:08:16) | INFO: Quitting! Runtime: 00:00:05
+
+2024/04/20 (11:08:52) | ===> btop++ v.1.3.2
+2024/04/20 (11:08:52) | INFO: Logger set to DEBUG
+2024/04/20 (11:08:52) | DEBUG: Using locale en_US.UTF-8
+2024/04/20 (11:08:52) | INFO: Running on /dev/pts/2
+2024/04/20 (11:08:52) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/20 (11:08:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/20 (11:08:52) | DEBUG: Shared::init() : Initialized.
+2024/04/20 (11:08:58) | INFO: Quitting! Runtime: 00:00:06
+
+2024/04/21 (20:44:25) | ===> btop++ v.1.3.2
+2024/04/21 (20:44:25) | INFO: Logger set to DEBUG
+2024/04/21 (20:44:25) | DEBUG: Using locale en_US.UTF-8
+2024/04/21 (20:44:25) | INFO: Running on /dev/pts/0
+2024/04/21 (20:44:26) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/21 (20:44:26) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/21 (20:44:26) | DEBUG: Shared::init() : Initialized.
+2024/04/21 (20:44:30) | INFO: Quitting! Runtime: 00:00:05
+
+2024/04/22 (07:37:01) | ===> btop++ v.1.3.2
+2024/04/22 (07:37:01) | INFO: Logger set to DEBUG
+2024/04/22 (07:37:01) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (07:37:01) | INFO: Running on /dev/pts/4
+2024/04/22 (07:37:01) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/22 (07:37:01) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/22 (07:37:01) | DEBUG: Shared::init() : Initialized.
+2024/04/22 (07:38:19) | DEBUG: Writing new config file
+2024/04/22 (07:38:19) | INFO: Quitting! Runtime: 00:01:18
+
+2024/04/22 (08:28:43) | ===> btop++ v.1.3.2
+2024/04/22 (08:28:43) | INFO: Logger set to DEBUG
+2024/04/22 (08:28:43) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (08:28:43) | INFO: Running on /dev/pts/3
+2024/04/22 (08:28:43) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/22 (08:28:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/22 (08:28:43) | DEBUG: Shared::init() : Initialized.
+2024/04/22 (08:30:59) | INFO: Quitting! Runtime: 00:02:16
+
+2024/04/22 (15:42:35) | ===> btop++ v.1.3.2
+2024/04/22 (15:42:35) | INFO: Logger set to DEBUG
+2024/04/22 (15:42:35) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (15:42:35) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+2024/04/22 (15:42:35) | INFO: Quitting! Runtime: 00:00:00
+
+2024/04/22 (15:42:42) | ===> btop++ v.1.3.2
+2024/04/22 (15:42:42) | INFO: Logger set to DEBUG
+2024/04/22 (15:42:42) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (15:42:42) | INFO: Running on /dev/pts/3
+2024/04/22 (15:42:42) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/22 (15:42:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/22 (15:42:42) | DEBUG: Shared::init() : Initialized.
+2024/04/22 (15:43:13) | INFO: Quitting! Runtime: 00:00:31
+
+2024/04/22 (16:32:50) | ===> btop++ v.1.3.2
+2024/04/22 (16:32:50) | INFO: Logger set to DEBUG
+2024/04/22 (16:32:50) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (16:32:50) | INFO: Running on /dev/tty1
+2024/04/22 (16:32:50) | INFO: Real tty detected: setting 16 color mode and using tty friendly graph symbols
+2024/04/22 (16:32:50) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/22 (16:32:50) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/22 (16:32:50) | DEBUG: Shared::init() : Initialized.
+2024/04/22 (16:33:00) | INFO: Quitting! Runtime: 00:00:11
+
+2024/04/22 (16:33:54) | ===> btop++ v.1.3.2
+2024/04/22 (16:33:54) | INFO: Logger set to DEBUG
+2024/04/22 (16:33:54) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (16:33:54) | INFO: Running on /dev/tty1
+2024/04/22 (16:33:54) | INFO: Real tty detected: setting 16 color mode and using tty friendly graph symbols
+2024/04/22 (16:33:54) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/22 (16:33:54) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/22 (16:33:54) | DEBUG: Shared::init() : Initialized.
+2024/04/22 (16:34:01) | INFO: Quitting! Runtime: 00:00:07
+
+2024/04/22 (16:35:46) | ===> btop++ v.1.3.2
+2024/04/22 (16:35:46) | INFO: Logger set to DEBUG
+2024/04/22 (16:35:46) | DEBUG: Using locale en_US.UTF-8
+2024/04/22 (16:35:46) | INFO: Running on /dev/pts/1
+2024/04/22 (16:35:46) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/22 (16:35:46) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/22 (16:35:46) | DEBUG: Shared::init() : Initialized.
+2024/04/22 (16:35:54) | INFO: Quitting! Runtime: 00:00:08
+
+2024/04/24 (10:25:46) | ===> btop++ v.1.3.2
+2024/04/24 (10:25:46) | INFO: Logger set to DEBUG
+2024/04/24 (10:25:46) | DEBUG: Using locale en_US.UTF-8
+2024/04/24 (10:25:46) | INFO: Running on /dev/pts/1
+2024/04/24 (10:25:46) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/24 (10:25:46) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/24 (10:25:46) | DEBUG: Shared::init() : Initialized.
+2024/04/24 (10:25:51) | INFO: Quitting! Runtime: 00:00:05
+
+2024/04/24 (10:53:42) | ===> btop++ v.1.3.2
+2024/04/24 (10:53:42) | INFO: Logger set to DEBUG
+2024/04/24 (10:53:42) | DEBUG: Using locale en_US.UTF-8
+2024/04/24 (10:53:42) | INFO: Running on /dev/pts/0
+2024/04/24 (10:53:42) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/24 (10:53:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/24 (10:53:42) | DEBUG: Shared::init() : Initialized.
+2024/04/24 (10:53:57) | DEBUG: Writing new config file
+2024/04/24 (10:53:57) | INFO: Quitting! Runtime: 00:00:15
+
+2024/04/26 (08:25:04) | ===> btop++ v.1.3.2
+2024/04/26 (08:25:04) | INFO: Logger set to DEBUG
+2024/04/26 (08:25:04) | DEBUG: Using locale en_US.UTF-8
+2024/04/26 (08:25:04) | INFO: Running on /dev/pts/2
+2024/04/26 (08:25:05) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/26 (08:25:05) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/26 (08:25:05) | DEBUG: Shared::init() : Initialized.
+2024/04/26 (08:25:09) | INFO: Quitting! Runtime: 00:00:05
+
+2024/04/26 (08:51:22) | ===> btop++ v.1.3.2
+2024/04/26 (08:51:22) | INFO: Logger set to DEBUG
+2024/04/26 (08:51:22) | DEBUG: Using locale en_US.UTF-8
+2024/04/26 (08:51:22) | INFO: Running on /dev/pts/2
+2024/04/26 (08:51:22) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/26 (08:51:22) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/26 (08:51:22) | DEBUG: Shared::init() : Initialized.
+2024/04/26 (08:51:29) | INFO: Quitting! Runtime: 00:00:07
+
+2024/04/27 (20:16:26) | ===> btop++ v.1.3.2
+2024/04/27 (20:16:26) | INFO: Logger set to DEBUG
+2024/04/27 (20:16:26) | DEBUG: Using locale en_US.UTF-8
+2024/04/27 (20:16:26) | INFO: Running on /dev/pts/2
+2024/04/27 (20:16:26) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/27 (20:16:26) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/27 (20:16:26) | DEBUG: Shared::init() : Initialized.
+
+2024/04/27 (21:52:32) | ===> btop++ v.1.3.2
+2024/04/27 (21:52:32) | INFO: Logger set to DEBUG
+2024/04/27 (21:52:32) | DEBUG: Using locale en_US.UTF-8
+2024/04/27 (21:52:32) | INFO: Running on /dev/pts/2
+2024/04/27 (21:52:32) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/27 (21:52:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/27 (21:52:32) | DEBUG: Shared::init() : Initialized.
+2024/04/27 (21:52:39) | INFO: Quitting! Runtime: 00:00:07
+
+2024/04/27 (21:52:45) | ===> btop++ v.1.3.2
+2024/04/27 (21:52:45) | INFO: Logger set to DEBUG
+2024/04/27 (21:52:45) | DEBUG: Using locale en_US.UTF-8
+2024/04/27 (21:52:45) | INFO: Running on /dev/pts/3
+2024/04/27 (21:52:45) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/04/27 (21:52:45) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2024/04/27 (21:52:45) | DEBUG: Shared::init() : Initialized.
+2024/04/27 (21:53:02) | INFO: Quitting! Runtime: 00:00:17

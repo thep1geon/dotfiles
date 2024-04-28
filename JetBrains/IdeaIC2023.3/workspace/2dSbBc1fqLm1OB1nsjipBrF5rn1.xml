@@ -1,0 +1,152 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="JAVA" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="4" lastUsed="1710082658571" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1710082658577" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/magic/Projects/Intellij/JAVA}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" weight="0.17026827" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17026827" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3602442" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.18385345" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3602442" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3602442" left="0.17026827" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Bookmarks</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="138" width="428" height="472" key="FileChooserDialogImpl" timestamp="1710004745043">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="138" width="428" height="472" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1710004745043" />
+    <state width="1260" height="223" key="GridCell.Tab.0.bottom" timestamp="1710077845100">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1710077845100" />
+    <state width="1260" height="223" key="GridCell.Tab.0.center" timestamp="1710077845100">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1710077845100" />
+    <state width="1260" height="223" key="GridCell.Tab.0.left" timestamp="1710077845099">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1710077845099" />
+    <state width="1260" height="223" key="GridCell.Tab.0.right" timestamp="1710077845100">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1710077845100" />
+    <state x="187" y="15" key="SettingsEditor" timestamp="1710077845074">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="187" y="15" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1710077845074" />
+    <state x="283" y="29" width="901" height="702" key="new project wizard" timestamp="1710083252091">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="29" width="901" height="702" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1710083252091" />
+    <state x="345" y="165" key="run.anything.popup" timestamp="1710077600940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="345" y="165" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1710077600940" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
